@@ -55,8 +55,6 @@ const handleDeleteClick = (taskItemContainer, taskItemText) => {
     }
 }
 
-
-
 const handleInputChange = () => {
     const inputIsValid = validateInput()
 
