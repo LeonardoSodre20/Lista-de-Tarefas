@@ -111,6 +111,7 @@ body{
 
 .task-description{
     font-size: 1.3em;
+    text-align: left;
 }
 
 .completed{
